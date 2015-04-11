@@ -1,0 +1,5 @@
+Google contributes to Linux as part of its [android](http://code.google.com/p/android), [chrome-os](http://code.google.com/p/chromium-os/) and server development. This project is the public home of the server platform development team.
+
+Most of our work is made public by sending patches to Linux kernel mailing lists, but sometimes we have additional code or documentation to share that need another home. For instance, team members wrote the PerfUserGuide guide to the Linux performance event system and the [TCP proportional rate reduction IETF draft](http://tools.ietf.org/html/draft-mathis-tcpm-proportional-rate-reduction-01).
+
+This project is a maintained by individual developers on the side, so it is not very polished or exhaustive. Most documents posted here have in time been merged into more suitable documentation sources (e.g., kernel source Documentation, perf.wiki.kernel.org, ...). The downloads section contains some tools for which we could not find a better home.

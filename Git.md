@@ -1,0 +1,1 @@
+Developers can host their individual git repositories at `googlers.googlesource.com/<name>`. At the moment, no repositories have been set up.
